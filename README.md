@@ -1,4 +1,4 @@
-# Body Fat Prediction: Comparative Machine Learning Analysis
+# Body Fat Prediction using various regression techniques
 
 ## Project Overview
 
